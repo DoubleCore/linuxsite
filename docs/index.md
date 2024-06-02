@@ -28,27 +28,23 @@
     "features": [
         {
             "title": "Day1",
-            "details": "了解Linux概念"
+            "details": "Overview of Linux and its key concepts."
         },
         {
             "title": "Day2",
-            "details": "了解Linux概念"
+            "details": "Basic command line operations and file management."
         },
         {
             "title": "Day3",
-            "details": "了解Linux概念"
+            "details": "Working with text editors and file manipulation."
         },
         {
             "title": "Day4",
-            "details": "了解Linux概念"
+            "details": "Network configuration and troubleshooting."
         },
         {
             "title": "Day5",
-            "details": "了解Linux概念"
-        },
-        {
-            "title": "Profile",
-            "details": "了解Linux概念"
+            "details": "Shell scripting and task automation with cron."
         }
     ],
     "title": "index",
