@@ -51,7 +51,7 @@
             "details": ""
         }
     ],
-    "title": "learn linux in 5days",
+    "title": "index",
     "description": "learn how to use linux grammar",
     "navbar": true,
     "sideBar": true,
