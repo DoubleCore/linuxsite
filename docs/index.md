@@ -13,6 +13,26 @@
             {
                 "text": "Needed infrastructure",
                 "link": "/en/some useful tools"
+            },
+            {
+                "text": "Day1",
+                "link": "/en/Day1/Day1"
+            },
+            {
+                "text": "Day2",
+                "link": "/en/Day2/Day2"
+            },
+            {
+                "text": "Day3",
+                "link": "/en/Day3/Day3"
+            },
+            {
+                "text": "Day4",
+                "link": "/en/Day4/Day4"
+            },
+            {
+                "text": "Day5",
+                "link": "/en/Day5/Day5"
             }
         ],
         "image": {
