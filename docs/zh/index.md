@@ -16,7 +16,7 @@
             }
         ],
         "image": {
-            "src": "\\images\\home\\index_home.jpg",
+            "src": "\\images\\home\\index_home.png",
             "alt": "",
             "width": "",
             "height": ""
