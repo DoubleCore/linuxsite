@@ -3,7 +3,7 @@
     "layout": "home",
     "hero": {
         "name": "learn linux in 5 days",
-        "text": "Use the fast way to learn",
+        "text": "The fastest way to learn",
         "tagline": "Linux change the world !!!",
         "actions": [
             {
