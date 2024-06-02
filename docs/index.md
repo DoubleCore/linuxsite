@@ -2,17 +2,17 @@
 {
     "layout": "home",
     "hero": {
-        "name": "vitepress simple template",
+        "name": "",
         "text": "A VitePress Site",
         "tagline": "My great project tagline",
         "actions": [
             {
                 "text": "Importance",
-                "link": "/zh/importance"
+                "link": "/en/importance"
             },
             {
                 "text": "Needed infrastructure",
-                "link": "/zh/some useful tools"
+                "link": "/en/some useful tools"
             }
         ],
         "image": {
@@ -68,4 +68,4 @@
 }
 ---
 
-### hallo world
+### Linux change the world !!!
