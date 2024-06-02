@@ -8,11 +8,11 @@
         "actions": [
             {
                 "text": "Importance",
-                "link": "/markdown-examples"
+                "link": "/en/importance"
             },
             {
                 "text": "Needed infrastructure",
-                "link": "/api-examples"
+                "link": "/en/some useful tools"
             }
         ],
         "image": {
@@ -28,15 +28,15 @@
     "features": [
         {
             "title": "Day1",
-            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+            "details": ""
         },
         {
             "title": "Day2",
-            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+            "details": ""
         },
         {
             "title": "Day3",
-            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+            "details": ""
         },
         {
             "title": "Day4",
@@ -68,4 +68,4 @@
 }
 ---
 
-### hallo world
+

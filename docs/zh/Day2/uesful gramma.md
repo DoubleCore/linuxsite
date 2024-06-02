@@ -1,6 +1,6 @@
 ---
 {
-    "title": "how to ues",
+    "title": "linux importance",
     "description": "",
     "navbar": true,
     "sideBar": true,
