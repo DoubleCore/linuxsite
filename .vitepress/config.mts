@@ -193,7 +193,7 @@ import { defineConfig } from "vitepress";
             "link": "/api-examples"
           }
         ],
-        "sidebar": {},
+        "sidebar": [],
         "i18nRouting": true,
         "siteTitle": "VitePressSimple",
         "footer": {

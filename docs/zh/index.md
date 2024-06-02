@@ -8,11 +8,11 @@
         "actions": [
             {
                 "text": "Importance",
-                "link": "/zh/importance"
+                "link": "/en/importance"
             },
             {
                 "text": "Needed infrastructure",
-                "link": "/zh/some useful tools"
+                "link": "/en/some useful tools"
             }
         ],
         "image": {
