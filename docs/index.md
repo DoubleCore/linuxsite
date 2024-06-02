@@ -59,8 +59,18 @@
     "editLink": true,
     "lastUpdated": true,
     "aside": "right",
-    "custom": {},
-    "head": []
+    "custom": {
+        "": ""
+    },
+    "head": [
+        [
+            "meta",
+            {
+                "name": "",
+                "content": ""
+            }
+        ]
+    ]
 }
 ---
 
